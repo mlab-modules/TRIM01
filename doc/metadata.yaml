@@ -1,0 +1,17 @@
+description: TRIM01A
+github_branch: TRIM01A
+github_description: TRIM01A
+github_repo: TRIM01
+github_url: https://github.com/mlab-modules/TRIM01
+homepage: false
+images:
+- doc/img/TRIM01A_1.jpg
+- doc/img/TRIM01A_small.jpg
+- doc/img/TRIM01A_2.jpg
+- doc/pdf/CA9HVdim_prew_600_0_color_fff.jpg
+- doc/img/TRIM01A_QRcode.png
+mark: 50
+status: 0
+tags: []
+title: TRIM01
+updated: '2023-09-17T11:34:04.498134+00:00'
